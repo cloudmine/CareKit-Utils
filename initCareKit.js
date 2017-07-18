@@ -15,8 +15,8 @@ var fs = require('fs');
 */
 
 /*
-app_id: 7f3e17595e7f8f43166a523f997421e4
-api_key: 8cbe1d7c83ac4efa8df21c8f35c99a81
+app_id: //
+api_key: //
 */
 
 

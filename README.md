@@ -21,7 +21,7 @@ The `Administrator email` is used for configuring the root admin user for the Ca
 The `Administrator Name` is a human-friendly name for the CareKit administrator. 
 
 
-####`Administrator Password`
+#### `Administrator Password`
 
 The `Administrator Password` is required for securing the Admin user login. This should be a complex password, with multiple types of special characters and a mixture of upper and lower-case letters. 
 
